@@ -1,0 +1,79 @@
+.navbar {
+    background-color:transparent;
+    overflow: hidden;
+}
+
+.nav-link{
+  color: #ffffff;
+}
+
+#caption h1,h3{
+  color: #ffffff;
+}
+
+
+.card{
+  padding-top: 1rem;
+  font-weight: 700;
+  background-color: #e9ecef;
+  font-size: 17px;
+}
+
+#headerText{
+	background-color: #595959;
+	color: #ffffff;
+    text-align: right;
+    margin:auto;
+}
+
+
+
+#speciality{
+    font-weight: 700;
+    font-size: 15px;
+}
+
+
+.nav-item.navlink{
+	color: #ffffff;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
